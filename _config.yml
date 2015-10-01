@@ -49,8 +49,8 @@ tel: +54 9 11 3125-4333
 members:
   - name: Damian Calabresi
     position: CEO
-    text: Computer Engineer. Java Developer. South Park fan
-    img: team01.jpg
+    text: "Computer Engineer, Java Developer, South Park fan"
+    img: anonym.png
     social:
       - title: envelope #use for email address
         url: mailto:damiancalabresi@gmail.com
@@ -60,7 +60,7 @@ members:
 # Clients information. Shown on Home and About pages.
 clients:
   - name: client
-    img: client01.png
+    img: anonym.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "About Damian Calabresi"
