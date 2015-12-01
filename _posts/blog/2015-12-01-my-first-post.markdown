@@ -7,7 +7,7 @@ categories:
 - blog 
 - Java
 img: 
-thumb: thumb01.jpg
+thumb: 
 ---
 
 ### Welcome
