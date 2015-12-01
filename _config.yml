@@ -9,7 +9,7 @@ url: "http://www.dcalabresi.com"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+# highlighter: rouge
 permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
@@ -33,12 +33,15 @@ social:
     url: https://twitter.com/damiancalabresi
   - title: linkedin
     url: https://www.linkedin.com/pub/damian-calabresi/32/901/586
+  - title: github
+    url: https://github.com/damiancalabresi/
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/4151899/
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Buenos Aires,
-    - Argentina.
+    - Buenos Aires, Argentina.
 email: damiancalabresi@gmail.com
 tel: +54 9 11 3125-4333
 
