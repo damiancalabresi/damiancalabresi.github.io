@@ -29,12 +29,6 @@ A new paragraph
 
 Some Ruby code
 
-{% highlight ruby linenos %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-
 Some Java code
 
 {% highlight java %}
