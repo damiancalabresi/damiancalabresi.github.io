@@ -48,28 +48,5 @@ tel: +54 9 11 3125-4333
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
-# Members information. Shown on About page.
-members:
-  - name: Damian Calabresi
-    position: CEO
-    text: "Computer Engineer, Java Developer, South Park fan"
-    img: anonym.png
-    social:
-      - title: envelope #use for email address
-        url: mailto:damiancalabresi@gmail.com
-      - title: twitter
-        url: https://twitter.com/damiancalabresi
-
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: client
-    img: anonym.png
-    
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "About Damian Calabresi"
-
-# Testimonial content. Shown on Home and About page. 
-testimonial:
-    message: "A testimonial"
-    author: Damian Calabresi
-    position: Web site owner
+about: "Damian Calabresi, Computer Engineer, Software developer."
