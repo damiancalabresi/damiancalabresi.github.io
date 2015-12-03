@@ -8,6 +8,8 @@ categories:
 - Java
 img: 
 thumb: 
+comments: true
+postid: 1
 ---
 
 ### Welcome
