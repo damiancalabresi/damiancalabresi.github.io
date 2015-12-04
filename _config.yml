@@ -50,3 +50,6 @@ tel: +54 9 11 3125-4333
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Damian Calabresi, Computer Engineer, Software developer."
+
+gems:
+  - jekyll-sitemap
