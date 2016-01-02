@@ -6,7 +6,6 @@ author: Damian Calabresi
 categories: 
 - blog 
 - Java
-- UUID
 img: 
 thumb: 
 comments: true

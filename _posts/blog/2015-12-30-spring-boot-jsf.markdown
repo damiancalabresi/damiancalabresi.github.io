@@ -6,7 +6,6 @@ author: Damian Calabresi
 categories: 
 - blog 
 - Java
-- Java Server Faces
 - JSF
 - PrimeFaces
 img: 
