@@ -7,7 +7,6 @@ categories:
 - blog 
 - Java
 - Jms
-- ActiveMQ
 img: 
 thumb: 
 comments: true
